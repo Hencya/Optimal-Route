@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608176484 source:e:\dandi\kuliah\semester 3\analisis kompleksitas algoritma\aka\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1608904368 source:e:\materi kulyah\semester 3\wgtik\wgtik\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
