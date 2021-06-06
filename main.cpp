@@ -18,7 +18,7 @@ bool searchKode(char arrKode[],char kode){
         }
         i++;
     }
-    return NULL;
+    return false;
 }
 
 //Jumlah Baris dan Kolom dibatasi jumlah alfabet yang ada
